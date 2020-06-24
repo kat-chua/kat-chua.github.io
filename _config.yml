@@ -1,20 +1,20 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            Kat Chua
+tagline:          A bomb ass bitch
+description:      This is her domain.
 canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Kat Chua
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
+  bio:            "smol dog"
+  email:          kathdjc@gmail.com
+  Linkedin:       kat-chua
+  github:         kat-chua
   instagram:      ctrunsthis
   dribbble:       coletownsend
   disqus:         balzac
-  location:       "Buffalo, NY"
+  location:       "Singapore, Singapore"
   # Plug in your disqus shortname!
 
 tools:
@@ -31,14 +31,14 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/kat-chua
     external: true
-  - title: Cole Who?
+  - title: Resume
     url: http://coletownsend.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Tijuana 
 future:      true
 highlighter: pygments
 markdown:    kramdown
