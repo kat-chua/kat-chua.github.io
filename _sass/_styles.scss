@@ -285,8 +285,8 @@ header.site-header nav {
     position: relative;
     margin-bottom: $lh;
 
-    /* Added to help fix the footer issue */
-    flex:1 1 auto; 
+    /* Added to help fix the footer issue
+    flex:1 1 auto;*/
 
     .overlay {
         vertical-align: middle;
@@ -451,6 +451,9 @@ header.site-header nav {
 // Post Formatting
 
 .post {
+
+    flex: 1 1 auto;
+    /* Added to fix footer issues*/
 
     min-height: 500px;
 
