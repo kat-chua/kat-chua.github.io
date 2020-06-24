@@ -11,10 +11,10 @@ body {
   height: 100%;
   overflow-x: hidden;
 
-  /* added to try and fix the footer issue */
+  /* added to try and fix the footer issue
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: center; */
 }
 
 h1,h2,h3,h4,h5 {
@@ -285,8 +285,6 @@ header.site-header nav {
     position: relative;
     margin-bottom: $lh;
 
-    /* Added to help fix the footer issue
-    flex:1 1 auto;*/
 
     .overlay {
         vertical-align: middle;
@@ -452,7 +450,7 @@ header.site-header nav {
 
 .post {
 
-    flex: 1 1 auto;
+    /* flex: 1 1 auto;*/
     /* Added to fix footer issues*/
 
     min-height: 500px;
