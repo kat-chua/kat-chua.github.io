@@ -79,6 +79,14 @@ code {
     font-weight: bold;
 }
 
+/*position: fixed;
+height: 50px;
+background-color: red;
+bottom: 0px;
+left: 0px;
+right: 0px;
+margin-bottom: 0px;*/
+
 .highlight {
     background: $black;
     padding: 12px;
@@ -627,6 +635,7 @@ footer {
     font-size: $fsp;
     color: $white;
     position: relative;
+    display: inline-block;
 
     // Contain that ish
     section {
