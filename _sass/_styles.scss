@@ -421,8 +421,12 @@ header.site-header nav {
                 font-size: $fs3;
                 font-style: italic;
             }
-        }
 
+        }
+        .tags {
+          font-size: 5px;
+        }
+        
         .summary {
             font-size: 18px;
             line-height: 1.45em;
