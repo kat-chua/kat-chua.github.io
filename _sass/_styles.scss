@@ -626,6 +626,7 @@ header.site-header nav {
 /* Footer Stuff */
 .push {
     height: $footerHeight/10 !important;
+    position: relative;
 }
 
 footer {
