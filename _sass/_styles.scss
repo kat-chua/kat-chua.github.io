@@ -635,7 +635,7 @@ footer {
     height: $footerHeight;
     font-size: $fsp;
     color: $white;
-    position: relative;
+    position: fixed;
     display: inline-block;
 
     // Contain that ish
