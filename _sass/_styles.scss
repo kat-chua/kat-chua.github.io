@@ -79,14 +79,6 @@ code {
     font-weight: bold;
 }
 
-/*position: fixed;
-height: 50px;
-background-color: red;
-bottom: 0px;
-left: 0px;
-right: 0px;
-margin-bottom: 0px;*/
-
 .highlight {
     background: $black;
     padding: 12px;
@@ -457,9 +449,6 @@ header.site-header nav {
 // Post Formatting
 
 .post {
-
-    /* flex: 1 1 auto;*/
-    /* Added to fix footer issues*/
 
     min-height: 500px;
 
