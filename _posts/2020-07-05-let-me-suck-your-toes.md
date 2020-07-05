@@ -5,6 +5,8 @@ description: "You're probably wondering how I ended up in this situation."
 category: articles
 date: 2020-07-05
 tags: [sample post, readability, test]
+image:
+  feature: "https://bartable.bart.gov/files/BARTable_DntwnBerkToRockridge-TelegraphAve_4182.jpg"
 ---
 
 It is 8am in Berkeley, California, when a man starts yelling at me, first flirtatiously, then aggressively: “Hey... Adidas. Adidas! Adi—das! Little Adidas girl, get! Come here, Adidas!” Cue record scratch. Freeze frame. Yup... that’s me. Adidas girl. You’re probably wondering how I ended up in this situation. Well, it’s a long story.

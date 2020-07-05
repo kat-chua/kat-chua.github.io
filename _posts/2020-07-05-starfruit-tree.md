@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Starfruit Tree"
-description: "It is daybreak in Jakarta, Indonesia. Here, this summer, whoever takes, owns."
+description: "Here, this summer, whoever takes, owns."
 category: articles
 date: 2020-07-05
 tags: [sample post, readability, test]
