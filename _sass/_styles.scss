@@ -425,8 +425,11 @@ header.site-header nav {
         }
         .tags {
           font-size: 5px;
+          color: black;
+          font-weight: lighter;
+          font-family: monospace;
         }
-        
+
         .summary {
             font-size: 18px;
             line-height: 1.45em;
