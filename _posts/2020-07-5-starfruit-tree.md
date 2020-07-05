@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Startfruit Tree"
+title: "The Starfruit Tree"
 description: "It is daybreak in Jakarta, Indonesia. Here, this summer, whoever takes, owns."
 category: articles
 date: 2020-07-05
