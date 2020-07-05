@@ -1,6 +1,7 @@
+---
 layout: post
 title: "The Startfruit Tree"
-description: "It is daybreak in Jakarta, Indonesia. 
+description: "It is daybreak in Jakarta, Indonesia. Here, this summer, whoever takes, owns."
 category: articles
 date: 2020-07-05
 tags: [sample post, readability, test]

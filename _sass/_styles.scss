@@ -166,7 +166,7 @@ input {
 #bump {
     min-height: 100%;
     height: auto;
-    margin: 0 auto ($footerHeight * -1);
+    margin: 0 auto 0; /**($footerHeight * -1);*/
 }
 
 .wrap {
@@ -625,8 +625,7 @@ header.site-header nav {
 
 /* Footer Stuff */
 .push {
-    height: $footerHeight/10 !important;
-    position: relative;
+    height: $footerHeight/4 !important;
 }
 
 footer {
@@ -635,8 +634,7 @@ footer {
     height: $footerHeight;
     font-size: $fsp;
     color: $white;
-    position: fixed;
-    display: inline-block;
+    position: relative;
 
     // Contain that ish
     section {
