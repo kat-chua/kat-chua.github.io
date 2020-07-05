@@ -5,6 +5,8 @@ description: "It is daybreak in Jakarta, Indonesia. Here, this summer, whoever t
 category: articles
 date: 2020-07-05
 tags: [sample post, readability, test]
+image:
+  feature: "https://www.gardeningknowhow.com/wp-content/uploads/2019/11/starfruit-propagation.jpg"
 ---
 
 It is daybreak in Jakarta, Indonesia. Next to the house, there is a majestic starfruit tree on the adjacent stretch of green. The tree is nearly ten feet tall, and its fruit are bright, perfectly-formed, and sweet. So sweet, the neighbors tell their children to run up to the house, and quietly, stealthily, pluck the bright yellow starfruit that does not belong to them. Here, this summer, whoever takes, owns.
