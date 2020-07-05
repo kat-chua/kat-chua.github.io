@@ -34,11 +34,11 @@ links:
     url: https://github.com/kat-chua
     external: true
   - title: Resume
-    url: http://coletownsend.com
+    url: _docs/Resume - Chua, Kat.pdf
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Tijuana 
+timezone:    America/Tijuana
 future:      true
 highlighter: pygments
 markdown:    kramdown
