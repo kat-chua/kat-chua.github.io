@@ -166,7 +166,7 @@ input {
 #bump {
     min-height: 100%;
     height: relative; /*auto;*/
-    margin: 0 auto ($footerHeight * -1);
+    margin: 0 auto; /**($footerHeight * -1);*/
 }
 
 .wrap {
