@@ -10,11 +10,6 @@ body {
   min-height: 100%;
   height: 100%;
   overflow-x: hidden;
-
-  /* added to try and fix the footer issue
-  display: flex;
-  flex-direction: column;
-  align-items: center; */
 }
 
 h1,h2,h3,h4,h5 {
@@ -433,7 +428,7 @@ header.site-header nav {
         }
 
         .summary {
-            font-size: 18px;
+            font-size: 2px;
             line-height: 1.45em;
         }
 
