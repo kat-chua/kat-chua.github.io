@@ -1,13 +1,13 @@
 title:            Kat Chua
-tagline:          A bomb ass bitch
-description:      This is her domain.
+tagline:          She's trying, oh she's trying
+description:      This is Kat's domain.
 canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
   name:           Kat Chua
   avatar:         avatar.png
-  bio:            "smol dog"
+  bio:            "doin' the best she can"
   email:          kathdjc@gmail.com
   Linkedin:       kat-chua
   github:         kat-chua
@@ -35,7 +35,7 @@ links:
     external: true
   - title: Resume
     url: _docs/Resume - Chua, Kat.pdf
-    external: false
+    #external: false
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Tijuana
