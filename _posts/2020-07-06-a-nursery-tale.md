@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "On Nabokov's "A Nursery Tale""
-description:
+title: "On Nabokov's 'A Nursery Tale'"
+description: Your standard nursery tale about the power of numbers, orgies, and the Devil herself.
 category: articles
 date: 2020-07-06
 tags: [essay]
 image:
-  feature: "https://www.gardeningknowhow.com/wp-content/uploads/2019/11/starfruit-propagation.jpg"
+  feature: "https://cms.qz.com/wp-content/uploads/2014/08/sympathy-for-the-devil-featured.jpg?quality=75&strip=all&w=1600&h=900&crop=1"
 ---
 
 In his essay “Good Writers and Good Readers,” Vladimir Nabokov alleges that all “major” writers embody three personas in their works: enchanter, storyteller, and teacher. Adhering to his own preaching, Nabokov should fulfill all three duties in “A Nursery Tale.” Yet while his storyteller’s art is apparent in the fast-paced and entertaining nature of Erwin’s hunt, and his prowess as an enchanter is well-demonstrated in his use of compelling language and imagery, Nabokov’s moral is not as easily grasped— an unexpected outcome, especially for a short story titled “A Nursery Tale.” Erwin’s deal with the Devil, and his weekend spent recruiting “slave girls,” does not end in disaster; it ends, instead, as every weekend typically ends: Erwin, dispirited, thinking about having to get up for work on Monday morning. Erwin does not experience any realization that his actions were wrong at the end of the story, nor does he express any commitment to change. The story gives no reassurance that the same events will not repeat the next weekend. Instead of a straightforward lesson about a young man being punished for two of the cardinal sins, lust and greed, Nabokov presents a much more nuanced message: fantasy, fueled by desire, leaves one where one began. By endearing readers to Erwin and his desires, as well as endowing the setting with fairytale characteristics, Nabokov demonstrates that to pursue desire alone traps one in an unfulfilling cycle, and to break from it, one must seek something higher and deeper: romantic love.
