@@ -4,7 +4,7 @@ title: "The Starfruit Tree"
 description: "Here, this summer, whoever takes, owns."
 category: articles
 date: 2020-07-05
-tags: [shortstory]
+tags: [short-story]
 image:
   feature: "https://www.gardeningknowhow.com/wp-content/uploads/2019/11/starfruit-propagation.jpg"
 ---
