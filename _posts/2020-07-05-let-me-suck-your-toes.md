@@ -4,7 +4,7 @@ title: "Let Me Suck Your Toes"
 description: "You're probably wondering how I ended up in this situation."
 category: articles
 date: 2020-07-05
-tags: [sample post, readability, test]
+tags: [opinion-piece]
 image:
   feature: "https://bartable.bart.gov/files/BARTable_DntwnBerkToRockridge-TelegraphAve_4182.jpg"
 ---
