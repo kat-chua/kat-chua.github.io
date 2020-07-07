@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'On Nabokov's "A Nursery Tale"'
+title: "On Nabokov's A Nursery Tale"
 description: Your standard fairytale about the power of numbers, orgies, and the Devil herself.
 category: articles
 date: 2020-07-06
